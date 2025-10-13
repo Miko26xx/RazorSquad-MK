@@ -7,9 +7,9 @@ i dont have anything important here
 
 ### 🧑‍💻 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axxelet&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Razorsquad&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axxelet&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorsquad&layout=compact&theme=tokyonight)
 
 ---
 
