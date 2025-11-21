@@ -12,7 +12,7 @@ i dont have anything important here
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miko26xx&layout=compact&theme=tokyonight)
 
 
-![Top Languages coding i like](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,c#,py)
+![Top Languages coding i like](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,cpp,py)
 
 ---
 
