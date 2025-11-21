@@ -1,27 +1,25 @@
 # 👋 Hey, I'm Miko26xx
 
-i dont have anything important here  
-
-
-
+### 📌 About Me
+- 🎮 Roblox player & creator (still learning)
+- 🧑‍💻 Learning multiple programming languages  
+- 🌐 Not so Active on X  
+- 🚀 Exploring coding, game development, and web design  
 
 ---
 
 ### 🧑‍💻 My GitHub Stats
 
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miko26xx&layout=compact&theme=tokyonight)
 
-
-![Top Languages i want to learn](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,cpp,py,lua)
+![Top Languages I Want to Learn](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,cpp,py,lua)
 
 ---
 
 ### 🔗 Links
 
-[![Discord Server](https://skillicons.dev/icons?i=discord)]([https://discord.gg/UtKBZMGtZA](https://www.youtube.com/@Mikoli06))
-[![Roblox](https://skillicons.dev/icons?i=roblox)](https://www.roblox.com/users/8291550497/profile) 
+[![Discord Server](https://skillicons.dev/icons?i=discord)](https://www.youtube.com/@Mikoli06)  
+[![Roblox](https://skillicons.dev/icons?i=roblox)](https://www.roblox.com/users/8291550497/profile)  
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/AbdiYusuf19916)
 
 <details>
