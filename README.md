@@ -76,10 +76,7 @@ These graphs make me look cooler than I actually am ↓
 
 ## 🔗 Links & Socials
 
-Find me around the internet 👇
-
-[![Discord Server](https://skillicons.dev/icons?i=discord)](https://www.youtube.com/@Mikoli06)  
-[![Roblox](https://skillicons.dev/icons?i=roblox)](https://www.roblox.com/users/8291550497/profile)  
+Find me around the internet 👇  
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/AbdiYusuf19916)
 
 ---
