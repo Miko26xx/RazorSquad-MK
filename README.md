@@ -1,15 +1,15 @@
-# 👋 Hey, I'm RazorSquad-MK
+# 👋 Hey, I'm Miko26xx
 
 i dont have anything important here  
-💬 @axxelet on most things  
+
 
 ---
 
 ### 🧑‍💻 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Razorsquad&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miko26xx&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorsquad&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miko26xx&layout=compact&theme=tokyonight)
 
 ---
 
