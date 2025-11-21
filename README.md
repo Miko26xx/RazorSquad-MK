@@ -10,6 +10,8 @@ i dont have anything important here
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miko26xx&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miko26xx&layout=compact&theme=tokyonight)
+
+
 ![Top Languages coding i like](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,c#,py)
 
 ---
