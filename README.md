@@ -28,6 +28,5 @@ i dont have anything important here
     <summary><h2>Github Stats</h2></summary>
     <figure>
         <img src="https://github-readme-stats.vercel.app/api?username=Miko26xx&hide_border=true&theme=transparent" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miko26xx&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
     </figure>
 </details>
